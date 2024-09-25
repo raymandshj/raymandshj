@@ -14,7 +14,7 @@ A passionate **Computer Science graduate student** at Concordia University, with
 - Exploring **advanced neural networks** to mitigate the vanishing gradient problem in deep networks.
 - Analyzing **networks of superheroes** and **Instagram data**, uncovering interesting patterns and insights.
 
-🌍 Let's Connect:
+##🌍 Let's Connect:
 I'm always looking to collaborate on exciting projects, especially in AI, machine learning, and big data. Feel free to reach out via LinkedIn.
 
 ## 🌐 Socials:
