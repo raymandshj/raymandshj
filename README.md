@@ -14,10 +14,6 @@ A passionate **Computer Science graduate student** at Concordia University, with
 - Exploring **advanced neural networks** to mitigate the vanishing gradient problem in deep networks.
 - Analyzing **networks of superheroes** and **Instagram data**, uncovering interesting patterns and insights.
 
-## 🎓 **Education & Certifications**
-- **Master of Applied Computer Science** (2023-2025), Concordia University.
-- Participant at **Oxford Machine Learning Summer School (OxML 2024)**.
-
 🌍 Let's Connect:
 I'm always looking to collaborate on exciting projects, especially in AI, machine learning, and big data. Feel free to reach out via LinkedIn.
 
