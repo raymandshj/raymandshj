@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 **Hi, I'm Raymand Shojaie**  
 A passionate **Computer Science graduate student** at Concordia University, with a strong foundation in **software engineering** and **2+ years of experience in Machine Learning and Deep Learning**. My journey spans from building **deep learning models** for image classification to tackling challenges like the **vanishing gradient problem**.
 
