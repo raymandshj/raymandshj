@@ -1,6 +1,28 @@
 # 💫 About Me:
-Master's student in Computer Science with expertise in applied and theoretical aspects of ML and DL.
+👋 Hi, I'm Raymand Shojaie
+A passionate Computer Science graduate student at Concordia University, with a strong foundation in software engineering and 2+ years of experience in Machine Learning and Deep Learning. My journey spans from building deep learning models for image classification to tackling challenges like the vanishing gradient problem.
 
+🔍 What I Do:
+
+Specialize in Machine Learning and Deep Learning, particularly CNNs, RNNs, and LSTMs.
+Hands-on experience with image processing, face detection algorithms.
+Proficient in Python, TensorFlow, PyTorch, and big data tools like Docker.
+💼 Previous Work:
+
+AI Engineer Intern at BlueSense, where I engineered cutting-edge models for skin analysis and face detection.
+
+🚀 Current Projects:
+
+Exploring advanced neural networks to mitigate the vanishing gradient problem in deep networks.
+Analyzing networks of superheroes and Instagram data, uncovering interesting patterns and insights.
+
+🎓 Education & Certifications:
+
+Master of Applied Computer Science (2023-2025), Concordia University.
+Participant at Oxford Machine Learning Summer School (OxML 2024).
+
+🌍 Let's Connect:
+I'm always looking to collaborate on exciting projects, especially in AI, machine learning, and big data. Feel free to reach out via LinkedIn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymand-shojaie) 
