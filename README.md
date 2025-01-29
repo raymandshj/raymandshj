@@ -3,8 +3,8 @@
 A passionate **Computer Science graduate student** at Concordia University, with a strong foundation in **software engineering** and **2+ years of experience in Machine Learning and Deep Learning**. My journey spans from building **deep learning models** for image classification to tackling challenges like the **vanishing gradient problem**.
 
 ## 🔍 **What I Do**
-- Specialize in **Machine Learning** and **Deep Learning**, particularly **CNNs**, **RNNs**, and **LSTMs**.
-- Hands-on experience with **image processing** and **face detection algorithms**.
+- Specialize in **Machine Learning** and **Deep Learning**, particularly **CNNs**, **RNNs**, and **GNNs**.
+- **Hands-on experience** in developing and optimizing machine learning models and pipelines and conducting comprehensive analyses of **LLM architectural approaches**, with a focus on improving model accuracy, real-time performance, and deployment efficiency.
 - Proficient in **Python**, **TensorFlow**, **PyTorch**, and **big data tools** like **Docker**.
 
 ## 💼 **Previous Work**
