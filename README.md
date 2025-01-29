@@ -11,7 +11,8 @@ A passionate **Computer Science graduate student** at Concordia University, with
 - **AI Engineer Intern** at BlueSense, where I engineered cutting-edge models for skin analysis and face detection.
 
 ## 🚀 **Current Projects**
-- Exploring **advanced neural networks** to mitigate the vanishing gradient problem in deep networks.
+- I am currently working on various data science and machine learning projects, focusing on building predictive models, optimizing data pipelines, and leveraging advanced analytics to drive data-driven decision-making and operational improvements.
+
 
 ## 🌍 **Let's Connect:**
 I'm always looking to collaborate on exciting projects, especially in AI, machine learning, and big data. Feel free to reach out via LinkedIn.
